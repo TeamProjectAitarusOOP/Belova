@@ -27,7 +27,7 @@ namespace DrunkenSoftUniWarrior.Items
             else
             {
                 Armor armor = (Armor)DrunkenSoftUniWarrior.Hero.Inventory[1];
-                DrunkenSoftUniWarrior.Hero.Damage -= armor.Defence;
+                DrunkenSoftUniWarrior.Hero.Armor -= armor.Defence;
                 DrunkenSoftUniWarrior.Hero.Inventory[1].Dispose();
                 DrunkenSoftUniWarrior.Hero.Inventory[1] = this;
             }
