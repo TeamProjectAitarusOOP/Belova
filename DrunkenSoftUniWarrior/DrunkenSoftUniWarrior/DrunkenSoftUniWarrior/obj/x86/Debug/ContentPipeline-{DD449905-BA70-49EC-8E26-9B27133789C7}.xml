@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background2.png</Source>
+      <Name>Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\Background2.xnb</Output>
+      <Time>2015-06-20T23:14:17.5509884+03:00</Time>
+    </Item>
+    <Item>
+      <Source>DrRadeva.png</Source>
+      <Name>DrRadeva</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\DrRadeva.xnb</Output>
+      <Time>2015-06-20T23:14:17.5529885+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyOneHitLeft.png</Source>
+      <Name>EnemyOneHitLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyOneHitLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.5539886+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyOneHitRight.png</Source>
+      <Name>EnemyOneHitRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyOneHitRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.561989+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyOneLeft.png</Source>
+      <Name>EnemyOneLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyOneLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.5699895+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyOneRight.png</Source>
+      <Name>EnemyOneRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyOneRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.5719896+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyThreeHitLeft.png</Source>
+      <Name>EnemyThreeHitLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyThreeHitLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.5839903+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyThreeHitRight.png</Source>
+      <Name>EnemyThreeHitRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyThreeHitRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.5899906+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyThreeLeft.png</Source>
+      <Name>EnemyThreeLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyThreeLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.6199923+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyThreeRight.png</Source>
+      <Name>EnemyThreeRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyThreeRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.6239926+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTwoHitLeft.png</Source>
+      <Name>EnemyTwoHitLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyTwoHitLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.6379934+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTwoHitRight.png</Source>
+      <Name>EnemyTwoHitRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyTwoHitRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.649994+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTwoLeft.png</Source>
+      <Name>EnemyTwoLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyTwoLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.6629948+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTwoRight.png</Source>
+      <Name>EnemyTwoRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\EnemyTwoRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.6749955+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2015-06-20T23:14:17.7630005+03:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroHitLeft.png</Source>
+      <Name>HeroHitLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\HeroHitLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.7660007+03:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroHitRight.png</Source>
+      <Name>HeroHitRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\HeroHitRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.7810015+03:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroMoveLeft.png</Source>
+      <Name>HeroMoveLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\HeroMoveLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.7930022+03:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroMoveRight.png</Source>
+      <Name>HeroMoveRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\HeroMoveRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.8000026+03:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroMoveUp.png</Source>
+      <Name>HeroMoveUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\HeroMoveUp.xnb</Output>
+      <Time>2015-06-20T23:14:17.8110033+03:00</Time>
+    </Item>
+    <Item>
+      <Source>NakovHitLeft.png</Source>
+      <Name>NakovHitLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\NakovHitLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.8250041+03:00</Time>
+    </Item>
+    <Item>
+      <Source>NakovHitRight.png</Source>
+      <Name>NakovHitRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\NakovHitRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.8290043+03:00</Time>
+    </Item>
+    <Item>
+      <Source>NakovLeft.png</Source>
+      <Name>NakovLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\NakovLeft.xnb</Output>
+      <Time>2015-06-20T23:14:17.8320045+03:00</Time>
+    </Item>
+    <Item>
+      <Source>NakovRight.png</Source>
+      <Name>NakovRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\NakovRight.xnb</Output>
+      <Time>2015-06-20T23:14:17.8460053+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SelfieGuy.png</Source>
+      <Name>SelfieGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\SelfieGuy.xnb</Output>
+      <Time>2015-06-20T23:14:17.8560058+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SleepingGuy.png</Source>
+      <Name>SleepingGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\SleepingGuy.xnb</Output>
+      <Time>2015-06-20T23:14:17.859006+03:00</Time>
+    </Item>
+    <Item>
+      <Source>YouWin.jpg</Source>
+      <Name>YouWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\YouWin.xnb</Output>
+      <Time>2015-06-20T23:14:17.8640063+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameMusic.mp3</Source>
+      <Name>GameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\GameMusic.xnb</Output>
+      <Extra>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\GameMusic.wma</Extra>
+      <Time>2015-06-20T23:43:12.3452129+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Swing.wav</Source>
+      <Name>Swing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\Swing.xnb</Output>
+      <Time>2015-06-20T23:14:17.8610061+03:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroMoveDown.png</Source>
+      <Name>HeroMoveDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\HeroMoveDown.xnb</Output>
+      <Time>2015-06-20T23:18:57.1099782+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DD449905-BA70-49EC-8E26-9B27133789C7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarriorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\PsychoSphere\Desktop\New folder (2)\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\DrunkenSoftUniWarrior\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-06-11T21:15:39.579767+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
