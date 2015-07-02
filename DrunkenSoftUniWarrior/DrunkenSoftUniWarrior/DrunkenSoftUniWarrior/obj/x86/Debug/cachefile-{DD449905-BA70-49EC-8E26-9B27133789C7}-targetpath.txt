@@ -25,7 +25,7 @@ Content\NakovRight.xnb
 Content\SelfieGuy.xnb
 Content\SleepingGuy.xnb
 Content\YouWin.xnb
+Content\HeroMoveDown.xnb
 Content\GameMusic.xnb
 Content\GameMusic.wma
 Content\Swing.xnb
-Content\HeroMoveDown.xnb
